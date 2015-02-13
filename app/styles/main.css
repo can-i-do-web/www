@@ -714,3 +714,10 @@ text-align: left;
 #facebook-container {
     text-align: center;
 }
+
+#copyrights {
+    text-align: center;
+    background: #cacaca;
+    color: #FFF;
+    padding: 4px;
+}
